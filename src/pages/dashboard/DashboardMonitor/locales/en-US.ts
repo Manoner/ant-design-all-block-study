@@ -1,0 +1,18 @@
+export default {
+  'dashboardanddashboardmonitor.monitor.trading-activity': 'Real-Time Trading Activity',
+  'dashboardanddashboardmonitor.monitor.total-transactions': 'Total transactions today',
+  'dashboardanddashboardmonitor.monitor.sales-target': 'Sales target completion rate',
+  'dashboardanddashboardmonitor.monitor.remaining-time': 'Remaining time of activity',
+  'dashboardanddashboardmonitor.monitor.total-transactions-per-second': 'Total transactions per second',
+  'dashboardanddashboardmonitor.monitor.activity-forecast': 'Activity forecast',
+  'dashboardanddashboardmonitor.monitor.efficiency': 'Efficiency',
+  'dashboardanddashboardmonitor.monitor.ratio': 'Ratio',
+  'dashboardanddashboardmonitor.monitor.proportion-per-category': 'Proportion Per Category',
+  'dashboardanddashboardmonitor.monitor.fast-food': 'Fast food',
+  'dashboardanddashboardmonitor.monitor.western-food': 'Western food',
+  'dashboardanddashboardmonitor.monitor.hot-pot': 'Hot pot',
+  'dashboardanddashboardmonitor.monitor.waiting-for-implementation': 'Waiting for implementation',
+  'dashboardanddashboardmonitor.monitor.popular-searches': 'Popular Searches',
+  'dashboardanddashboardmonitor.monitor.resource-surplus': 'Resource Surplus',
+  'dashboardanddashboardmonitor.monitor.fund-surplus': 'Fund Surplus',
+};
